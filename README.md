@@ -1,4 +1,4 @@
-# claude-demo
+# claude-md-starter
 
 > An opinionated Claude Code setup, distributed as a reusable `CLAUDE.md`.
 
